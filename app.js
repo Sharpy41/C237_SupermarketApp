@@ -26,7 +26,7 @@ const connection = mysql.createConnection({
   });
 
  
-    // host: 'localhost',
+   // host: 'localhost',
    // port: '3307',
    // user: 'root',
    // password: 'Republic_C207',
